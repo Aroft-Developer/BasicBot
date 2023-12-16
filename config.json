@@ -1,0 +1,12 @@
+{
+    "token": "Token",
+    "linkbot": "https://discord.com/",
+    "colorbot": "#ffffff",
+    
+    "BDD": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "basicbot"
+    }
+}
